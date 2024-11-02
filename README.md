@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Tuncay, a high school student and graphics programmer. I have been programming since 2020.
+I am Tuncay, a high school student. C, C++, Java, Lua, C# and graphics programmer. I have been programming since 2020.
 
 I'm developing game engines and games.
 
